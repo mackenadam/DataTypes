@@ -26,7 +26,17 @@ namespace DataTypes
             // Float
             float myFloat = 32.46F;
 
+            // Double
+            double myDouble = 32.46D;
+            
+            // Decimal
+            decimal myDecimal = 53005.25M;
 
+            // Char
+            char myChar = 'a';
+
+            // String
+            string myString = "This is a string";
         }
     }
 }
