@@ -16,6 +16,17 @@ namespace DataTypes
 
             // Short - -32768 -> 32767
             short myShort = 32766;
+
+            // Int
+            int myInteger = 5;
+
+            // Long
+            long myLong = 1234567890L;
+
+            // Float
+            float myFloat = 32.46F;
+
+
         }
     }
 }
